@@ -1,0 +1,23 @@
+{
+  "name": SocialNetwork",
+  "version": "1.0.0",
+  "description": "A friendslist for social media",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Michael Sullivan",
+  "license": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ms13380/SocialNetwork.git"
+  },
+  "bugs": {
+    "url": "https://ms13380.github.io/SocialNetwork/"
+  },
+  "homepage": "https://ms13380.github.io/SocialNetwork/",
+  "keywords": [
+    "express",
+    "server"
+  ]
+}
